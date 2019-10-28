@@ -1,6 +1,6 @@
 # Vue Website
 
-Teilnehmer:  Mimas, Chaozz, Paul1, Riseofrice, Nibiru
+Teilnehmer:  Mimas, Chaozz, Paul1, Riseofrice, Nibiru, Fabian
 
 ## Ziel der Website 
 - Leute  zum Mithelfen gewinnen
